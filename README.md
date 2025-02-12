@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte de um desafio proposto pela Alura, com 
 - **Simplicidade:** Experiência prática e intuitiva para facilitar o processo de organização de eventos.
 
 ## 🖥️ Demonstração da Aplicação
-
+![Demonstração da Aplicação](assets/gif.gif)
 
 ## 🛠️ Tecnologias Utilizadas
 
